@@ -11,7 +11,7 @@ import {
 } from '../types';
 
 const GithubState = props => {
-  const intialState = {
+  const initialState = {
     users: [],
     user: {},
     repos: [],
